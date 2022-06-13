@@ -1,5 +1,5 @@
 # Vowel Message Decoder/Encoder
-Progam developed on Linux which encodes and decodes vowel messages using a TCP and UDP connection. The following is a YouTube link for demonstration: https://youtu.be/vJvpEUOz3xA. The following is the assignment description: https://pages.cpsc.ucalgary.ca/~carey/CPSC441/assignment2.html
+Progam developed on Linux which encodes and decodes messages based on vowels using a TCP and UDP connection. The following is a YouTube link for demonstration: https://youtu.be/vJvpEUOz3xA. The following is the assignment description: https://pages.cpsc.ucalgary.ca/~carey/CPSC441/assignment2.html
 ## User manual
 1. In vowelizerS.cpp, select a directive for your desired string technique. Select a directive labelled
 SIMPLE or ADVANCED at the top of the file. 1 will enable all corresponding string technique
